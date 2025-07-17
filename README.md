@@ -3,7 +3,7 @@
 **Nama Mahasiswa**: Salsabila Fatma Aripa<br>
 **NRP**: 5025211057
 **Judul TA**: Penerapan _Convolutional Neural Network_ untuk Klasifikasi Cacar Monyet menggunakan YOLOv11 <br>
-**Dosen Pembimbing**: Agus Budi Raharjo, S.Kom., M.Kom., Ph.D.a<br> 
+**Dosen Pembimbing**: Agus Budi Raharjo, S.Kom., M.Kom., Ph.D. <br> 
 **Dosen Ko-pembimbing**: Dr. Dwi Sunaryono, S.Kom., M.Kom.
 
 ---
