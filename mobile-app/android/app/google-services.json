@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289735804075",
+    "project_id": "auth-modul-95b37",
+    "storage_bucket": "auth-modul-95b37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289735804075:android:dfab0e203486ca8453e3ee",
+        "android_client_info": {
+          "package_name": "com.example.monkeypox_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwB65Mhk5uyWaA7WoLDqzTsLXMRrtw34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289735804075:android:4ba56c0222a0165053e3ee",
+        "android_client_info": {
+          "package_name": "com.example.monkeypox_cls_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwB65Mhk5uyWaA7WoLDqzTsLXMRrtw34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
