@@ -70,9 +70,10 @@
    cd fastapi-backend
    pip install -r requirements.txt
    ```
-   - Anda dapat menyipakan model mada `/app/model`
-   - Menjalakan program dengan : 
+   - Anda dapat menyipakan model pada `/app/model`
+   - Masuk ke /app lalu jenjalakan program dengan : 
    ```bash
+   cd app
    uvicorn app.main:app --host 0.0.0.0 --port 8000
    ```
    - Lalu buka browser dan kunjungi : `http://127.0.0.1:8000/docs` (port dapat menggunakan ipconfig)
